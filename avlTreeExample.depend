@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1716905549 source:c:\users\marvi\desktop\marvin pc\uni general\quinto semestre\progra iii\c++ projects\avltreeexample\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
